@@ -19,7 +19,7 @@ function App() {
         </a>
       </header>
       <p className="App-intro">
-        Yes! I can do it.
+        Changed on the feature branch.
       </p>
     </div>
   );
